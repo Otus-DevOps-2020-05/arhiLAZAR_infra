@@ -1,6 +1,11 @@
 # arhiLAZAR_infra
 arhiLAZAR Infra repository
 
+## Домашнее задание №5
+- Добавлено два шаблона packer: ubuntu16.json и immutable.json
+- Добавлен скрипт create-redditvm.sh
+- Добавлен systemd-unit для puma
+
 ## Домашнее задание №4
 testapp_IP = 35.228.240.95
 testapp_port = 9292
