@@ -1,6 +1,13 @@
 # arhiLAZAR_infra
 arhiLAZAR Infra repository
 
+## Домашнее задание №7
+- Add app.json and db.json to packer
+- Change default zone
+- Add terraform modules (app+db+vpc)
+- Add two environments: prod and stage
+- Move tf-backend to cloud storage
+
 ## Домашнее задание №6
 - Добавлены манифесты терраформа, описание переменных и пример tfvars
 
