@@ -1,6 +1,14 @@
 # arhiLAZAR_infra
 arhiLAZAR Infra repository
 
+## Домашнее задание №8
+- Add ansible inventory
+- Add ansible config
+- Add ansible playbook
+
+#### Задание "Напишем простой плейбук"
+После выполнения команды 'rm -rf ~/reddit', ансибл склорировал репозиторий с приложением.
+
 ## Домашнее задание №7
 - Add app.json and db.json to packer
 - Change default zone
