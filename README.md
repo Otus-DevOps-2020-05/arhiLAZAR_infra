@@ -1,6 +1,12 @@
 # arhiLAZAR_infra
 arhiLAZAR Infra repository
 
+## Домашнее задание №10
+- Add ansible roles: app, db
+- Add nginx via external role jdauphant.nginx
+- Add rule for terraform (allow port 80)
+- Create system users
+
 ## Домашнее задание №9
 - Add ansible playbooks
 - Change packer provisioners
