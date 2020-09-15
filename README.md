@@ -1,6 +1,11 @@
 # arhiLAZAR_infra
 arhiLAZAR Infra repository
 
+## Домашнее задание №9
+- Add ansible playbooks
+- Change packer provisioners
+- Change terraform outputs
+
 ## Домашнее задание №8
 - Add ansible inventory
 - Add ansible config
@@ -20,7 +25,7 @@ arhiLAZAR Infra repository
 - Добавлены манифесты терраформа, описание переменных и пример tfvars
 
 ####Задание со *
-Terraform добавляет инстансу только ssh-ключи, указанные в манифесте. Ключи, добавленные в веб-интерфейсе, игнорируются. 
+Terraform добавляет инстансу только ssh-ключи, указанные в манифесте. Ключи, добавленные в веб-интерфейсе, игнорируются.
 
 ## Домашнее задание №5
 - Добавлено два шаблона packer: ubuntu16.json и immutable.json
