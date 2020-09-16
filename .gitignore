@@ -6,3 +6,5 @@ variables_immutable.json
 *.tfvars
 .terraform/
 *.retry
+jdauphant.nginx
+vault.key
